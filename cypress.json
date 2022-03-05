@@ -1,1 +1,4 @@
-{}
+{
+    "defaultCommandTimeout": 5000,
+    "baseUrl": "http://ms-hmg.btfinanceira.com.br"
+}
